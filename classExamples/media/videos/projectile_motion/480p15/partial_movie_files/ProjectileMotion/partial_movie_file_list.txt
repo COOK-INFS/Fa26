@@ -1,0 +1,10 @@
+# This file records the segment order used by Manim.
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/513ea41e62a5f16d03087475bc2a1fc68d7f0430a614667334597fa9e64abe26.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/2d36395ba0aef0570dc46da81b0ab256ef4f0ede71bc11fd107654d7a162d36e.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/b2d0debdc311fac20e887c10e39916f1057aac5019a517500e7c87856605a0b0.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/2430ba056676fea97de2e6908b0e95625afd1d19ea7fa0e2c1a59839698e41d3.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/e9c1e9fcabe2e50d7ac1c9fd8941cf969c87cd0b6e82eeb0397c3762180b7469.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/e5e0c41e68bf5ed3ca31f982896399e73aa2c3bc37d762f3fb938a841e27f4eb.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/c84c9c146b6e82e2becc52cb79f1d7f95c4e44dbf4e73c8abdcc1f6fca873056.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/ee881dd53ecf8b5578a4d7d60d67aed6f68f1216cce01cd4b9202be15d2fdf49.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/projectile_motion/480p15/partial_movie_files/ProjectileMotion/1aa52ce50d5a51aa11bbc4da6e2a68b51e12d95eb7103cd0b3a2a5c8b9135547.mp4'

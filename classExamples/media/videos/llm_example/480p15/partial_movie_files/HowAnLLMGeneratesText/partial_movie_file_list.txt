@@ -1,0 +1,12 @@
+# This file records the segment order used by Manim.
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/bfc1b8458e7959892a369c96466a92291e13c7f5df3da5b1d833cc243b70eddb.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/945a9d57f0811155a23eefe2b0413ef05d943c6e17b4dcbdf088cc2dbe16b970.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/43314f5191e98d8962fdd78cd828a0b66b1f13b76e1b951b3efdbf7b0c0dd58e.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/d596a422cb918c0a482fd00e754b083427d022d01117b13dfc78295426d041e9.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/c994d256cd72114ff1f0ab74b77e8971f71247ed8e0e9992f241782b22d9b0c0.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/0a23ed363a82164d47d57cef9926e98ee770e156a8bc196a7558e6e1a40dfeba.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/769f103b841d923d41b87ddc3bd5fdd369b0d4c2abc686830ff3f9ece1c2254d.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/482e075b55b440deea485357fcf48fc80af74a0cb561c849092592cded45828c.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/efb219c482d95bec6d8b8189f8c3d76426dd9d25841c5f403e878cafd360c45e.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/b693baec821c4eafa1013f8a97b0aa278759f79f900879fc64ea8e3c858b6a89.mp4'
+file 'file:C:/INFS3070-DEV/Fa26/classExamples/media/videos/llm_example/480p15/partial_movie_files/HowAnLLMGeneratesText/6daf4244fc3986a326e2b101da30cac191dae9878d104e5f3b1b81919bd558c7.mp4'

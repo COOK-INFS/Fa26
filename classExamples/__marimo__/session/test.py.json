@@ -1,0 +1,62 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.1",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "d57db4303aaed5c7810597ad2416e4f2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PPCx",
+      "code_hash": "1b936d11c9fdae736ba6f0b6ba28219a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "35\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    },
+    {
+      "id": "AWbV",
+      "code_hash": "037dcff98fe115427d6ff4c234ce2d42",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": [
+        {
+          "type": "stream",
+          "name": "stdout",
+          "text": "15\n",
+          "mimetype": "text/plain"
+        }
+      ]
+    }
+  ]
+}
